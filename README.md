@@ -17,7 +17,9 @@ https://www.anaconda.com/products/distribution.
 ```pip3 install transformers ``` 
   
 Can be run directly from VS Code by setting the python environment to clinicalbert-env from Anaconda  
-
+  
+Press CTRL+P in VS Code, type Python: Select Interpreter and select clinicalbert-env  
+  
 # Example response for discharge summary in the code
 
 Entity found by AI: pyelonephritis, Label: problem, Score: 0.5424991250038147  
