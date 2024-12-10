@@ -7,7 +7,7 @@ ClinicalBert is installed using Anaconda and an environment setup with Python 3.
   
 Python environment must be set to use the one created in Anaconda  
   
-Important Note: GPU with CUDA cores will run way better than running this on the CPU, but it will run on the CPU. Check CUDA version in NVidia Control Panel.  
+<b>Important Note:</b> GPU with CUDA cores will run way better than running this on the CPU, but it will run on the CPU. Check CUDA version in NVidia Control Panel.  
   
 Install Anaconda and run Anaconda Terminal (MacOS)/Powershell (Windows) as Admin  
 
