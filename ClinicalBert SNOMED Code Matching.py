@@ -238,6 +238,7 @@ for entity in filtered_entities_with_length_longer_than_3:
             print(f"")
         else:
             print("No results found.")
+            print(f"")
     else:
         print(f"Error: {response.status_code}")
         print(response.text)
