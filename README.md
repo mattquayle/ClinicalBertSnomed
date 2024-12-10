@@ -1,10 +1,13 @@
 # ClinicalBertSnomed
 This is some example code for using ClinicalBert to suggest SNOMED codes for medical documents.  
+  
 ClinicalBert is a large language model trained on clinical data and available as open source from Hugging Face.  
 
 ClinicalBert is installed using Anaconda and an environment setup with Python 3.8 installed. This is pre-requisite for running this code.  
+  
 Python environment must be set to use the one created in Anaconda  
-Note GPU with CUDA cores will run way better than running this on the CPU, but it will run on the CPU. Check CUDA version in NVidia Control Panel.  
+  
+Important Note: GPU with CUDA cores will run way better than running this on the CPU, but it will run on the CPU. Check CUDA version in NVidia Control Panel.  
   
 Install Anaconda and run Anaconda Terminal (MacOS)/Powershell (Windows) as Admin  
 
